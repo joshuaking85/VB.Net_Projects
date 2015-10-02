@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Heroes_and_villains>
+  <hero>
+    <name>Wolverine</name>
+    <team>Xmen</team>
+    <power>Claws</power>
+    <faction>Hero</faction>
+  </hero>
+  <hero>
+    <name>Batman</name>
+    <team>Nil</team>
+    <power>Rich</power>
+    <faction>Hero</faction>
+  </hero>
+  <hero>
+    <name>Joker</name>
+    <team>Nil</team>
+    <power>Insanity</power>
+    <faction>Villain</faction>
+  </hero>
+  <hero>
+    <name>Cyclops</name>
+    <team>Xmen</team>
+    <power>Laser Eyes</power>
+    <faction>Hero</faction>
+  </hero>
+  <hero>
+    <name>Sabertooth</name>
+    <team>Brotherhood</team>
+    <power>Regeneration</power>
+    <faction>Villan</faction>
+  </hero>
+  </Heroes_and_villains>

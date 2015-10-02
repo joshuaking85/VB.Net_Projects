@@ -1,0 +1,10 @@
+c:\users\jking0493\documents\visual studio 2012\Projects\HeroesList\HeroesList\bin\Debug\HeroesList.exe.config
+c:\users\jking0493\documents\visual studio 2012\Projects\HeroesList\HeroesList\bin\Debug\HeroesList.exe
+c:\users\jking0493\documents\visual studio 2012\Projects\HeroesList\HeroesList\bin\Debug\HeroesList.pdb
+c:\users\jking0493\documents\visual studio 2012\Projects\HeroesList\HeroesList\bin\Debug\HeroesList.xml
+c:\users\jking0493\documents\visual studio 2012\Projects\HeroesList\HeroesList\obj\Debug\HeroesList.Form1.resources
+c:\users\jking0493\documents\visual studio 2012\Projects\HeroesList\HeroesList\obj\Debug\HeroesList.Resources.resources
+c:\users\jking0493\documents\visual studio 2012\Projects\HeroesList\HeroesList\obj\Debug\HeroesList.vbproj.GenerateResource.Cache
+c:\users\jking0493\documents\visual studio 2012\Projects\HeroesList\HeroesList\obj\Debug\HeroesList.exe
+c:\users\jking0493\documents\visual studio 2012\Projects\HeroesList\HeroesList\obj\Debug\HeroesList.xml
+c:\users\jking0493\documents\visual studio 2012\Projects\HeroesList\HeroesList\obj\Debug\HeroesList.pdb
