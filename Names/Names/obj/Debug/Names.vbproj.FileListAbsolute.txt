@@ -1,0 +1,10 @@
+c:\users\jking0493\documents\visual studio 2012\Projects\Names\Names\bin\Debug\Names.exe.config
+c:\users\jking0493\documents\visual studio 2012\Projects\Names\Names\bin\Debug\Names.exe
+c:\users\jking0493\documents\visual studio 2012\Projects\Names\Names\bin\Debug\Names.pdb
+c:\users\jking0493\documents\visual studio 2012\Projects\Names\Names\bin\Debug\Names.xml
+c:\users\jking0493\documents\visual studio 2012\Projects\Names\Names\obj\Debug\Names.Form1.resources
+c:\users\jking0493\documents\visual studio 2012\Projects\Names\Names\obj\Debug\Names.Resources.resources
+c:\users\jking0493\documents\visual studio 2012\Projects\Names\Names\obj\Debug\Names.vbproj.GenerateResource.Cache
+c:\users\jking0493\documents\visual studio 2012\Projects\Names\Names\obj\Debug\Names.exe
+c:\users\jking0493\documents\visual studio 2012\Projects\Names\Names\obj\Debug\Names.xml
+c:\users\jking0493\documents\visual studio 2012\Projects\Names\Names\obj\Debug\Names.pdb
