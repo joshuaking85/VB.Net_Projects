@@ -1,0 +1,10 @@
+c:\users\jking0493\documents\visual studio 2012\Projects\Presidents\Presidents\bin\Debug\Presidents.exe.config
+c:\users\jking0493\documents\visual studio 2012\Projects\Presidents\Presidents\bin\Debug\Presidents.exe
+c:\users\jking0493\documents\visual studio 2012\Projects\Presidents\Presidents\bin\Debug\Presidents.pdb
+c:\users\jking0493\documents\visual studio 2012\Projects\Presidents\Presidents\bin\Debug\Presidents.xml
+c:\users\jking0493\documents\visual studio 2012\Projects\Presidents\Presidents\obj\Debug\Presidents.Form1.resources
+c:\users\jking0493\documents\visual studio 2012\Projects\Presidents\Presidents\obj\Debug\Presidents.Resources.resources
+c:\users\jking0493\documents\visual studio 2012\Projects\Presidents\Presidents\obj\Debug\Presidents.vbproj.GenerateResource.Cache
+c:\users\jking0493\documents\visual studio 2012\Projects\Presidents\Presidents\obj\Debug\Presidents.exe
+c:\users\jking0493\documents\visual studio 2012\Projects\Presidents\Presidents\obj\Debug\Presidents.xml
+c:\users\jking0493\documents\visual studio 2012\Projects\Presidents\Presidents\obj\Debug\Presidents.pdb
